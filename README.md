@@ -4,7 +4,7 @@ Retrieving keywords of COVID-19 news with News API and spaCy
 Created by Steven Chan  
 Homework for CS 4650: Big Data Analytics and Cloud Computing
 
-# Description
+## Description
 **datasetCOVID19.xlsx** - Dataset containing information about the coronavirus articles  
 **HW5 CS4650 - Steven Chan.ipynb** - Juypter Notebook version of code  
 **HW5 CS4650 - Steven Chan.py** - Python file version of code

@@ -8,6 +8,8 @@ Homework for CS 4650: Big Data Analytics and Cloud Computing
 ## Requirements
 * Juypter Notebook (Easy to install with Anaconda)
 * Python
+* spaCy
+* News API (account required to access API)
 
 ## Description
 **datasetCOVID19.xlsx** - Dataset containing information about the coronavirus articles  

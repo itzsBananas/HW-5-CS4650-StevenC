@@ -4,6 +4,10 @@ Retrieving keywords of COVID-19 news with News API and spaCy
 Created by Steven Chan  
 Homework for CS 4650: Big Data Analytics and Cloud Computing
 
+## Requirements
+* Juypter Notebook (Easy to install with Anaconda)
+* Python
+
 ## Description
 **datasetCOVID19.xlsx** - Dataset containing information about the coronavirus articles  
 **HW5 CS4650 - Steven Chan.ipynb** - Juypter Notebook version of the code  

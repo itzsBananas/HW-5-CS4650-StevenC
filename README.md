@@ -1,5 +1,6 @@
 # HW-5-CS4650-StevenC
 Retrieving keywords of COVID-19 news with News API and spaCy
+Used to help predict stock trends for the Stock Simulation Game
 
 Created by Steven Chan  
 Homework for CS 4650: Big Data Analytics and Cloud Computing
